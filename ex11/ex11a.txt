@@ -1,44 +1,33 @@
-Array Operation Menu:
-1. Create Array
-2. Insert Element
-3. Search Element
-4. Delete Element
-5. Display Array
-6. Exit
-Enter your choice: 1
-Enter the number of elements: 5
-Enter 5 elements: 10 20 30 40 50
-Array created successfully.
+Press 1. Insert	 2. Display 	3. Exit 
+1
 
-Array Operation Menu:
-1. Create Array
-2. Insert Element
-3. Search Element
-4. Delete Element
-5. Display Array
-6. Exit
-Enter your choice: 5
-Array elements: 10 20 30 40 50 
+Enter a value to insert into hash table: 10
 
-Array Operation Menu:
-(menu repeats)
-Enter your choice: 2
-Enter element to insert: 25
-Enter position to insert (0 to 5): 2
-Element inserted successfully.
+Press 1. Insert	 2. Display 	3. Exit 
+1
 
-Enter your choice: 5
-Array elements: 10 20 25 30 40 50 
+Enter a value to insert into hash table: 20
 
-Enter your choice: 3
-Enter element to search: 40
-Element found at position: 4
+Press 1. Insert	 2. Display 	3. Exit 
+1
 
-Enter your choice: 4
-Enter position to delete (0 to 5): 0
-Element deleted successfully.
+Enter a value to insert into hash table: 15
 
-Enter your choice: 5
-Array elements: 20 25 30 40 50 
+Press 1. Insert	 2. Display 	3. Exit 
+1
 
-Enter your choice: 6
+Enter a value to insert into hash table: 7
+
+Press 1. Insert	 2. Display 	3. Exit 
+1
+
+Enter a value to insert into hash table: 9
+
+Press 1. Insert	 2. Display 	3. Exit 
+2
+Entries at index 0: 15 -> 9 -> NULL
+Entries at index 1: 10 -> 7 -> NULL
+Entries at index 2: 20 -> NULL
+
+Press 1. Insert	 2. Display 	3. Exit 
+3
